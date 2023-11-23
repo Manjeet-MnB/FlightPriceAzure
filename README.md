@@ -39,7 +39,7 @@ As per selected trained model is dumped to pickled format for app development
 
 
 # Deployed:
-Deployed Azure : 
+Deployed on Azure : https://flightpriceestimator.azurewebsites.net/
 
 
 
